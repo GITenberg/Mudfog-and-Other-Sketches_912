@@ -1,0 +1,32 @@
+_repo: Mudfog-and-Other-Sketches_912
+creator:
+  author:
+    agent_name: Dickens, Charles
+    alias: Boz
+    birthdate: 1812
+    deathdate: 1870
+    gutenberg_agent_id: '37'
+    url: http://www.gutenberg.org/2009/agents/37
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Dickens
+description: Charles Dickens' series of funny sketches about the fictional 'Mudfog
+  Society for the Advancement of Everything', a parody of the real-life British Association
+  for the Advancement of Science.
+gutenberg_issued: '1997-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '912'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Social life and customs -- 19th century -- Fiction'
+- !lcc 'PR'
+tableOfContents: Public life of Mr. Tulrumble, once mayor of Mudfog -- Full report
+  of the first meeting of the Mudfog Association for the Advancement of Everything
+  -- Full report of the second meeting of the Mudfog Association for the Advancement
+  of Everything -- The pantomime of life -- Some particulars concerning a lion --
+  Mr. Robert Bolton, the "gentleman connected with the press" -- Familiar epistle
+  from a parent to a child aged two years and two months.
+title: Mudfog and Other Sketches
+url: http://www.gutenberg.org/ebooks/912
