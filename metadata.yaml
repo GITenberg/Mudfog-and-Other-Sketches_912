@@ -1,5 +1,8 @@
 _repo: Mudfog-and-Other-Sketches_912
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Dickens, Charles
@@ -12,6 +15,8 @@ creator:
 description: Charles Dickens' series of funny sketches about the fictional 'Mudfog
   Society for the Advancement of Everything', a parody of the real-life British Association
   for the Advancement of Science.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/912#Mudfog-and-Other-Sketches
 gutenberg_issued: '1997-05-01'
 gutenberg_type: Text
 identifiers:
