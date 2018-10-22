@@ -1,5 +1,5 @@
 _repo: Mudfog-and-Other-Sketches_912
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -28,6 +28,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'England -- Social life and customs -- 19th century -- Fiction'
 - !lcc 'PR'
+- GITenberg
 tableOfContents: Public life of Mr. Tulrumble, once mayor of Mudfog -- Full report
   of the first meeting of the Mudfog Association for the Advancement of Everything
   -- Full report of the second meeting of the Mudfog Association for the Advancement
